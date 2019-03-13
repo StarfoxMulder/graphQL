@@ -1,9 +1,14 @@
+# NOTE:
+
+## I am using the repo from the bootcamp noted below as the basis of my applications exploring GraphQL
+
 # graphql-fullstack-bootcamp
+
 Complimentary repo to https://tylermcginnis.com/free-graphql-bootcamp/ bootcamp by Vladimir Novick
 
 Slides are available [here](https://slides.com/vladimirnovick/graphql-fullstack-bootcamp):
 
-# Prerequisites 
+# Prerequisites
 
 ## Day1
 
@@ -63,18 +68,9 @@ cd my-app
 yarn serve
 ```
 
-
-
 ## Day 3, 4
 
-Install 
+Install
 
 - [Docker](https://docs.docker.com/install/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
-
-
-
-
-
-
-
